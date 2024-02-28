@@ -21,7 +21,7 @@ name="Xray",
 version="0.0.1",
 author="Anvesh4161",
 author_email="anveshbunty01@gmail.com",
-install_requires=get_requirements(r"C:\Users\anves\Desktop\ML_Projects\Xray_DL_E2E\requirements_dev.txt"),
+install_requires=get_requirements("requirements_dev.txt"),
 package=find_packages()
 
 )
