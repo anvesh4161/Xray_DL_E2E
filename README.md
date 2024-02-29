@@ -15,11 +15,11 @@ Data link: https://drive.google.com/file/d/1pfIAlurfeqFTbirUZ5v_vapIoGPgRiXY/vie
 # How to setup:
 
 ```bash
-conda create -n lungs python=3.8 -y
+conda create -n venv python=3.8 -y
 ```
 
 ```bash
-conda activate lungs
+conda activate venv
 ```
 
 ```bash
