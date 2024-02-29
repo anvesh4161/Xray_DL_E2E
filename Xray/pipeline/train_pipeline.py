@@ -2,6 +2,7 @@ import sys
 
 from Xray.components.data_ingestion import DataIngestion
 from Xray.components.data_transformation import DataTransformation
+from Xray.components.model_training import ModelTrainer
 
 
 from Xray.entity.artifact_entity import (
