@@ -14,7 +14,7 @@ BUCKET_NAME: str = "xraydeepclass"
 S3_DATA_FOLDER: str = "data"
 
 
-# data trasnforamtion
+# data transformation
 CLASS_LABEL_1: str = "NORMAL"
 
 CLASS_LABEL_2: str = "PNEUMONIA"
